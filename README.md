@@ -23,6 +23,8 @@ yarn && yarn build
 ```
 yarn godwoken:deploy
 ```
+## testnet private keys with preoloaded tokens to swap and add liquidity to dex
+```826359f55d241ff8ba0219c211123ae3a890ddd5f60e1f73d5d1c4c34a42abcf```
 
 ## Deployed Contracts
 
